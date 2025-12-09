@@ -1,0 +1,3 @@
+# https://peps.python.org/pep-0008/
+
+# PEP 8 (Python Enhancement Proposal 8) is the official style guide for writing Python code, offering conventions for formatting, naming, and structure to make code clean, readable, and consistent, which greatly aids collaboration. Key guidelines include using four spaces for indentation, limiting lines to 79 characters, employing snake_case for functions/variables, CamelCase for classes, and using blank lines to separate functions and classes. Tools like pycodestyle, linters, and IDE integrations help automatically enforce these standards, making Python code more maintainable. 
