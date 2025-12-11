@@ -1,0 +1,28 @@
+Operators are special symbols or keywords that perform operations on values and variables (called operands). They are fundamental for manipulating data, performing calculations, making comparisons, and controlling program flow. 
+
+res = a + b;
+res, a, b - operands
+=, + - operators
+and, or, not
+
+Python has seven primary categories of operators: 
+    Arithmetic Operators: Perform mathematical calculations.
+    +, -, *, /, //, **, %
+
+    Assignment Operators: Assign values to variables.
+    =, =+, =-, =*, =/, =//, =**, =%
+
+    Comparison (Relational) Operators: Compare two values and return a Boolean result (True or False).
+    ==, !=, <, <= >, >=
+
+    Logical Operators: Combine multiple conditional statements using Boolean logic (and, or, not).
+    and, or, not
+
+    Bitwise Operators: Perform operations directly on the binary representation (bits) of integers.
+    &, |, ^, ~, <<, >>
+
+    Identity Operators: Check if two variables refer to the exact same object in memory using is and is not.
+    is, is not
+
+    Membership Operators: Test whether a value exists within a sequence (like a list, string, or tuple) using in and not in. 
+    in, not in
