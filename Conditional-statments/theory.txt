@@ -1,0 +1,27 @@
+Conditional statements in Python are used to execute specific blocks of code based on whether a condition is true or false, allowing a program to make decisions and control its flow. Python uses the keywords if, elif (else if), and else for this purpose, relying on indentation to define code blocks. 
+
+if - syntax:
+
+if(condition):
+    block of code
+
+------------------------------
+if_else - syntax:
+
+if(condition):
+    block of code
+else:
+    block of code
+
+------------------------------
+if_elif_ladder - syntax:
+
+if(condition1):
+    block of code
+elif(condition2):
+    block of code
+elif(condition3):
+    block of code
+    ...
+else:
+    block of code
