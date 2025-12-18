@@ -258,3 +258,43 @@ num = 9
 #             *   *
 #                 *
 #                 *
+
+# https://witzcode.pythonanywhere.com/technology/2/56/?wz_tech=C%20programming&wz_category=Star-Patterns
+# num = 5
+
+# * * * * *
+#  *       *
+#   *       * odd
+#    *       *
+#     * * * * *
+#     * * * * *
+#    *       *
+#   *       * even
+#  *       *
+# * * * * *
+# * * * * *
+#  *       * 
+#   *       * odd
+#    *       *
+#     * * * * *
+#     * * * * *
+#    *       *
+#   *       * even
+#  *       *
+# * * * * *
+# * * * * *
+#  *       *
+#   *       * odd
+#    *       *
+#     * * * * *
+#     * * * * *
+#    *       *
+#   *       * even
+#  *       *
+# * * * * *
+
+# * * * * *
+# *       *
+# *   -   *
+# *       *
+# * * * * *

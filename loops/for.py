@@ -133,4 +133,5 @@ for row in range(1, num+1):
             print("0 ", end="")
         else:
             print("1 ", end="")
+    
     print()
