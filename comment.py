@@ -1,0 +1,10 @@
+# single line comment
+
+"""
+Multiline comment
+
+line-1
+line-2
+...
+line-n
+"""
