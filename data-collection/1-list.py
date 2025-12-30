@@ -1,5 +1,5 @@
 """
-List - Mutable | Orderd | indexing | sliceing | allow duplicate values
+List - Mutable | Orderd | indexing | slicing | allow duplicate values
 
 syntax :
 
