@@ -59,3 +59,11 @@ print(s2)  # {1, 2, 3}
 # | `symmetric_difference_update()` | Update with non-common            | `A={1,2,3}; B={3,4}`<br>`A.symmetric_difference_update(B)` | `{1,2,4}`    |
 # | `union()`                       | All unique elements               | `A={1,2}; B={3,4}`<br>`A.union(B)`                         | `{1,2,3,4}`  |
 # | `update()`                      | Add elements from another set     | `A={1,2}; B={3,4}`<br>`A.update(B)`                        | `{1,2,3,4}`  |
+
+
+nums = {1,2,3,4,5, 5,12, 0, 1}
+nums = frozenset(nums)
+# print(nums[0])
+# print(dir(nums))
+# nums.add(6)
+# print(nums)

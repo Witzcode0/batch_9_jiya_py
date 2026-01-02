@@ -1,0 +1,3 @@
+# print([1,2,3,4].append(5))
+
+# print(print(print()))

@@ -30,51 +30,51 @@ dict_name = {
 # print(fruit)
 
 
-contact = [
-    {
-        "A": [
-            {
-                "aman":{
-                    "mobile":["98748536","847589549"],
-                    "email":["aman@gmail.com"]
-                }
-            },{
-                "ajay":{
-                    "mobile":["987478648536","84758954354349"],
-                    "email":["ajay@gmail.com", "ajay1@gmail.com"]
-                }
-            }
-        ]
-    },{
-        "B": [
-            {
-                "bubben":{
-                    "mobile":["98748536","847589549"],
-                    "email":["bubben@gmail.com"]
-                }
-            },{
-                "bunty":{
-                    "mobile":["987478648536","84758954354349"],
-                    "email":["bunty@gmail.com", "bunty1@gmail.com"]
-                }
-            }
-        ]
-    },{
-        "C": [
-            {
-                "chaman":{
-                    "mobile":["98748536","847589549"],
-                    "email":["chaman@gmail.com"]
-                }
-            },{
-                "chandu":{
-                    "mobile":["987478648536","84758954354349"],
-                    "email":["chandu@gmail.com", "chandu1@gmail.com"]
-                }
-            }
-        ]
-    }
-]
+# contact = [
+#     {
+#         "A": [
+#             {
+#                 "aman":{
+#                     "mobile":["98748536","847589549"],
+#                     "email":["aman@gmail.com"]
+#                 }
+#             },{
+#                 "ajay":{
+#                     "mobile":["987478648536","84758954354349"],
+#                     "email":["ajay@gmail.com", "ajay1@gmail.com"]
+#                 }
+#             }
+#         ]
+#     },{
+#         "B": [
+#             {
+#                 "bubben":{
+#                     "mobile":["98748536","847589549"],
+#                     "email":["bubben@gmail.com"]
+#                 }
+#             },{
+#                 "bunty":{
+#                     "mobile":["987478648536","84758954354349"],
+#                     "email":["bunty@gmail.com", "bunty1@gmail.com"]
+#                 }
+#             }
+#         ]
+#     },{
+#         "C": [
+#             {
+#                 "chaman":{
+#                     "mobile":["98748536","847589549"],
+#                     "email":["chaman@gmail.com"]
+#                 }
+#             },{
+#                 "chandu":{
+#                     "mobile":["987478648536","84758954354349"],
+#                     "email":["chandu@gmail.com", "chandu1@gmail.com"]
+#                 }
+#             }
+#         ]
+#     }
+# ]
 # print(dir(contact))
 
 # print(type(contact))
@@ -85,11 +85,11 @@ contact = [
 # print(contact[0]["A"][1]["ajay"]["email"])
 # print(contact[0]["A"][1]["ajay"]["email"][-1])
 
-car = {
-    "name":"BMW",
-    "price":"40L",
-    "color":"black"
-}
+# car = {
+#     "name":"BMW",
+#     "price":"40L",
+#     "color":"black"
+# }
 
 # print(dir(car))
 
@@ -145,19 +145,28 @@ car = {
 # print(car)
 
 
-car1 = {
-    "name":"BMW",
-}
+# car1 = {
+#     "name":"BMW",
+# }
 
-car2 = {
-    "price":"40L",
-}
+# car2 = {
+#     "price":"40L",
+# }
 
-car3 = {
-    "color":"red"
-}
+# car3 = {
+#     "color":"red"
+# }
 
-car1.update(car2)
-car1.update(car3)
+# car1.update(car2)
+# car1.update(car3)
 
-print(car1)
+# print(car1)
+
+# users = []
+
+# while(True):
+#     user = dict()
+#     user["fullname"] = input("Enter your fullname: ")
+#     user["mobile"] = input("Enter your mobile: ")
+#     users.append(user)
+#     print(users)
