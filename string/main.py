@@ -130,3 +130,35 @@ page = 400
 
     # Escap seq.
     # qoute matter
+
+# print("brijesh gondaliya")
+# print("brijesh go\ndaliya")
+# print(r"brijesh go\ndaliya")
+
+# print("brijesh go\\ndaliya")
+# print("\\\\")
+# print("\'")
+# print("\tbrijesh")
+
+# print("my name is \"brijesh gondaliya\"")
+# print("my name is \'brijesh gondaliya\'")
+# print("my name is 'brijesh gondaliya'")
+# print('my name is "brijesh gondaliya"')
+
+# email = "brijesh@gmail.com"
+
+# print(email.endswith("@gmail.com"))
+# print(email.startswith("brijesh"))
+
+# nums = [1123, 4567, 8765, 3456]
+# print("-".join([str(num) for num in nums]))
+
+data = "     this is    something...     "
+
+# print(data.replace("  ", " ").replace("  ", " ").strip())
+
+# print(data.strip())
+# print(data.lstrip())
+# print(data.rstrip())
+
+
