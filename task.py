@@ -22,3 +22,16 @@
 
 # nums = [1,2,3,4,5,6,7,8,9,10]
 # print(nums[::-1])
+
+import string
+def lower(data):
+    empty_str = ''
+    upper = string.ascii_uppercase
+    # print(upper)
+    for ch in data:
+        if ch in upper:
+            empty_str += upper.index(ch)
+        else:
+            empty_str += ch
+    print(empty_str)
+lower(input("Enter something: "))
