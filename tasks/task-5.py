@@ -1,0 +1,1 @@
+print(input("Enter a string : ").lower().count(input("Enter a ch: ").lower()))
